@@ -20,7 +20,7 @@ console.log(diseaseArray.length)
 
 if(diseaseArray.length === 1 && diseaseArray[0]==="")
 {
-    NoDiseaseSelected.textContent = "Nphew , It seems like you dont have any of mentioned conditions"
+    NoDiseaseSelected.textContent = "Ahh, It seems like you dont have any of mentioned conditions"
 }
 console.log(NoDiseaseSelected)
 const arrayOfNine = ["1","2","3","4","5","6","7","8","9"]
