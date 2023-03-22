@@ -5,8 +5,8 @@
     background-image: url("https://res.cloudinary.com/dr9l4y45k/image/upload/v1679378602/3_p9pq4d.jpg");
       background-size: cover;
     padding: 10px;
-    background-repeat: no-repeat;
-    background-position: center center;
+     height: 100vh;
+
 }
 
 .checkbox-and-label-contanier {
@@ -14,26 +14,25 @@
 }
 
 .check-box-element {
-    height: 20px;
-    width: 20px;
-    margin: 5px;
+     height: 15px;
+    width: 15px;
+    margin: 2px;
 }
 
 .check-box-label {
     background-color: white;
     font-family: "Roboto";
-    font-size: 25px;
-    border-radius: 10px;
-       width: 300px;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 190px;
     color: grey;
     border-color: grey;
     border-style: solid;
     border-width: 1px;
-    margin-left: 15px;
+    margin-left: 5px;
 }
-
 .optionspage-Btn {
-    width: 100px;
+    width: 70px;
     height: 30px;
     border-width: 1px;
     border-radius: 8px;
