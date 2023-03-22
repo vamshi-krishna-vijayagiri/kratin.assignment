@@ -39,5 +39,5 @@ function handleChange(cname) {
   
 function navigateToLogin() {
   localStorage.clear()
-  window.location.href = "loginpage.html";
+  window.location.href = "index.html";
 }
