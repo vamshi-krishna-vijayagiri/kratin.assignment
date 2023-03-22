@@ -15,7 +15,7 @@ The project consists of three pages: a login page, a disease selection page, and
 *On this page, users can view detailed information about the diseases they have selected, including symptoms, treatment options, and lifestyle recommendations. The information is presented in a clear and easy-to-understand format, making it accessible to users with varying levels of medical knowledge.
 *Validating their weight to tell them whether they are in ideal weight or under weight or over weight. And also providing them with information which they have selected in previous page with corresponding links.
 
-Overall, this project aims to create a healthcare website that is tailored to the needs of older people, providing them with reliable and relevant information that will help them to maintain good health and manage chronic conditions.
+Overall, this project aims to create a healthcare website that is tailored to the needs of older people, providing them with reliable and relevant information that will help them to maintain good health and manage chronic conditions. Old Fit makes it easy for users to manage their health and live their best lives.
 
 **Technologies used:**
 The project involved developing a web application for a healthcare system. To build the front-end of the application, used HTML, CSS, Javascript, and Bootstrap, which allowed me to create a responsive and user-friendly interface.
