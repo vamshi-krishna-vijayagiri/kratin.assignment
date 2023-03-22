@@ -21,3 +21,4 @@ HTML: HTML was used to structure the content of the application, while CSS was u
 Javascript: Javascript was used to add interactivity to the application, such as pop-up, form validation, navigating from one page to another page with certain conditions.
 Bootstrap and CSS: Bootstrap and CSS framework, provides pre-built styles and components that helped to create a consistent look and feel across the application. Also, used Bootstrap’s grid system and flexbox to ensure that the application was responsive and could adapt to different devices.
 
+**Screen_Shots_Google_Drive_Link** :  https://drive.google.com/drive/folders/1wti-45l-eokEqjMFBQlpL-3tPdRip1ml?usp=share_link
