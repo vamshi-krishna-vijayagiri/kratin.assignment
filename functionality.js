@@ -1,5 +1,4 @@
 let myFormEl = document.getElementById("myForm");
-
 function navigateToOptionsPage() {
     window.location.href = "optionspage.html";
 }
@@ -10,6 +9,7 @@ myFormEl.addEventListener("submit", function(event) {
     let username = document.getElementById("name").value;
     let genderMale = document.getElementById("genderMale");
     let genderFemale = document.getElementById("genderFemale");
+
     if(genderFemale.checked)
     {
         localStorage.setItem("gender","Ms.")
@@ -17,24 +17,18 @@ myFormEl.addEventListener("submit", function(event) {
     else{
         localStorage.setItem("gender","Mr.")
     }
-    uweight = weight
-    unmae= username;
 
     let bodytype = "";
     if ((height - 100) < (weight)) {
-        bodytype = "over weight";
+        bodytype = "Over weight";
     } else if ((height - 100) > (weight)) {
-        bodytype = "under weight";
+        bodytype = "Under weight";
     } else {
         bodytype = "Ideal weight";
     }
-    ubtype = bodytype
-    console.log(bodytype);
-
     localStorage.setItem("name",username);
     localStorage.setItem("weight",weight);
-    localStorage.setItem("btype",bodytype);
+    localStorage.setItem("bodytype",bodytype);
   
     navigateToOptionsPage()
-
 });
