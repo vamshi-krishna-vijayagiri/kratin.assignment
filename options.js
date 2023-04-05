@@ -1,6 +1,6 @@
 if (!localStorage.getItem("name"))
 {
-  window.location.href = "loginpage.html";
+  window.location.href = "index.html";
 }
 
 function navigateToDetails() {
