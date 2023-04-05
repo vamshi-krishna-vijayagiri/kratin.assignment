@@ -1,8 +1,3 @@
-if (!localStorage.getItem("name"))
-{
-  window.location.href = "index.html";
-}
-
 function navigateToDetails() {
 
     let allDisease = "";
